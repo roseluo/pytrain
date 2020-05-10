@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Config>
-	<ConfigAgent name="MedalWallWndConfig" configType="IGFStandardWin" comboConfig="window_nostatusbar">
-		<configProp>
-			<prop field="smallIcon" value="sysres:MedalWallWnd_16.ico"/>
-			<prop field="bigIcon" value="sysres:All_logo32-xp.ico"/>
-		</configProp>
-	</ConfigAgent>
-</Config>
