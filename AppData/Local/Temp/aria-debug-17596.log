@@ -1,0 +1,18 @@
+2020-02-16 10:00:30.671|00009896|
+C:\build\aria-cpp-v1\clienttelemetry\src\LogManagerImpl.cpp(626): class Microsoft::Applications::Telemetry::ILogger *__thiscall Microsoft::Applications::Telemetry::LogManagerImpl::Initialize(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,const struct Microsoft::Applications::Telemetry::LogConfiguration &) WARNING: Invalid in-ram queue size (20971520), adjusted to max ram queue size
+2020-02-16 10:00:37.015|00017632|
+C:\build\aria-cpp-v1\clienttelemetry\common\HttpClientManager.cpp(186): void __thiscall common::HttpClientManager::Stop(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >) WARNING: stopping [0] ... numReqSuccess=4, numReqFailed=0, numRespPending=1
+2020-02-16 10:00:37.015|00009896|
+C:\build\aria-cpp-v1\clienttelemetry\.NET\PAL\win32\..\WinHttpClient\WinInetRequest.cpp(410): void __stdcall WinInetRequest::onStatusChanged(void *,unsigned long,unsigned long,void *,unsigned long) WARNING: [09C783C8] HttpQueryInfo(RAW_HEADERS) failed: 6
+2020-02-16 10:00:37.020|00009896|
+C:\build\aria-cpp-v1\clienttelemetry\.NET\PAL\win32\..\WinHttpClient\WinInetRequest.cpp(445): void __stdcall WinInetRequest::onStatusChanged(void *,unsigned long,unsigned long,void *,unsigned long) ERROR  : [09C783C8] connection failed.
+2020-02-16 10:00:37.020|00009896|
+C:\build\aria-cpp-v1\clienttelemetry\.NET\PAL\win32\..\WinHttpClient\WinInetRequest.cpp(448): void __stdcall WinInetRequest::onStatusChanged(void *,unsigned long,unsigned long,void *,unsigned long) ERROR  : [09C783C8] invoke onFailure handler...
+2020-02-16 10:00:37.020|00009896|
+C:\build\aria-cpp-v1\clienttelemetry\.NET\PAL\win32\..\WinHttpClient\WinInetHttpStack.cpp(59): auto __thiscall Microsoft::Applications::Telemetry::Windows::WinInetRequestWrapper::Open::<lambda_4dbbc5792b295c82a8d0e89106f32151>::operator ()(class WinInetContext *) const WARNING: [09C783C0] <WinInetRequest*>[09C783C8] m_callback=09BF29A0 OnFailure
+2020-02-16 10:00:37.020|00009896|
+C:\build\aria-cpp-v1\clienttelemetry\common\HttpClientManager.cpp(522): void __thiscall common::HttpClientManager::_HandleHttpResponse(class common::HcmRequest *,class Microsoft::Applications::Telemetry::PlatformAbstraction::IResponse *,enum Microsoft::Applications::Telemetry::PlatformAbstraction::HTTPSTACK_ERROR,class common::HcmRequestData *) WARNING: [09BF29A0] HcmRequest aborted because HCM is being stopped!
+2020-02-16 10:00:37.020|00009896|
+C:\build\aria-cpp-v1\clienttelemetry\common\HttpClientManager.cpp(653): void __thiscall common::HttpClientManager::_HandleHttpResponse(class common::HcmRequest *,class Microsoft::Applications::Telemetry::PlatformAbstraction::IResponse *,enum Microsoft::Applications::Telemetry::PlatformAbstraction::HTTPSTACK_ERROR,class common::HcmRequestData *) WARNING: [09BF29A0] HcmRequest aborted for HTTP send, size=1438, userData=06AE5178, userDataTags=194626ba46434f9ab441dd7ebda2aa64-5f64bebb-ac28-4cc7-bd52-570c8fe077c9-7717, failedAttempts=1
+2020-02-16 10:00:37.020|00009896|
+C:\build\aria-cpp-v1\clienttelemetry\.NET\PAL\win32\..\WinHttpClient\WinInetRequest.cpp(518): bool __thiscall WinInetRequest::close(void) WARNING: [09C783C8] already closed.

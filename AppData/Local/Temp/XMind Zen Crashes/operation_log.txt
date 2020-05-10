@@ -1,0 +1,41 @@
+[16332:16964:0216/100342.000:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://www.xmind.net/_api/vana-error-report "--application-name=XMind Zen" "--crashes-directory=C:\Users\jxluo\train\pytrain\AppData\Local\Temp\XMind Zen Crashes" --v=1]
+[16332:16964:0216/100342.003:VERBOSE1:crash_service.cc(148)] window handle is 0000000000130862
+[16332:16964:0216/100342.003:VERBOSE1:crash_service.cc(276)] pipe name is \\.\pipe\XMind Zen Crash Service
+dumps at C:\Users\jxluo\train\pytrain\AppData\Local\Temp\XMind Zen Crashes
+[16332:16964:0216/100342.003:VERBOSE1:crash_service.cc(280)] checkpoint is C:\Users\jxluo\train\pytrain\AppData\Local\Temp\XMind Zen Crashes\crash_checkpoint.txt
+server is https://www.xmind.net/_api/vana-error-report
+maximum 128 reports/day
+reporter is electron-crash-service
+[16332:16964:0216/100342.003:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[16332:4048:0216/100342.003:VERBOSE1:crash_service.cc(310)] client start. pid = 17144
+[16956:5748:0216/100342.508:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://www.xmind.net/_api/vana-error-report "--application-name=XMind ZEN" "--crashes-directory=C:\Users\jxluo\train\pytrain\AppData\Local\Temp\XMind ZEN Crashes" --v=1]
+[16956:5748:0216/100342.511:VERBOSE1:crash_service.cc(148)] window handle is 00000000000708D0
+[16956:5748:0216/100342.511:VERBOSE1:crash_service.cc(276)] pipe name is \\.\pipe\XMind ZEN Crash Service
+dumps at C:\Users\jxluo\train\pytrain\AppData\Local\Temp\XMind ZEN Crashes
+[16956:5748:0216/100342.511:VERBOSE1:crash_service.cc(280)] checkpoint is C:\Users\jxluo\train\pytrain\AppData\Local\Temp\XMind ZEN Crashes\crash_checkpoint.txt
+server is https://www.xmind.net/_api/vana-error-report
+maximum 128 reports/day
+reporter is electron-crash-service
+[16956:5748:0216/100342.511:ERROR:crash_service.cc(287)] could not start dumper
+[16332:4048:0216/100343.489:VERBOSE1:crash_service.cc(310)] client start. pid = 16188
+[16332:7960:0216/100350.803:VERBOSE1:crash_service.cc(319)] client end. pid = 16188
+[16184:15860:0216/100350.880:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://www.xmind.net/_api/vana-error-report "--application-name=XMind ZEN" "--crashes-directory=C:\Users\jxluo\train\pytrain\AppData\Local\Temp\XMind ZEN Crashes" --v=1]
+[16184:15860:0216/100350.884:VERBOSE1:crash_service.cc(148)] window handle is 00000000000908F0
+[16184:15860:0216/100350.884:VERBOSE1:crash_service.cc(276)] pipe name is \\.\pipe\XMind ZEN Crash Service
+dumps at C:\Users\jxluo\train\pytrain\AppData\Local\Temp\XMind ZEN Crashes
+[16184:15860:0216/100350.884:VERBOSE1:crash_service.cc(280)] checkpoint is C:\Users\jxluo\train\pytrain\AppData\Local\Temp\XMind ZEN Crashes\crash_checkpoint.txt
+server is https://www.xmind.net/_api/vana-error-report
+maximum 128 reports/day
+reporter is electron-crash-service
+[16184:15860:0216/100350.884:ERROR:crash_service.cc(287)] could not start dumper
+[12580:1604:0216/100351.092:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://www.xmind.net/_api/vana-error-report "--application-name=XMind ZEN" "--crashes-directory=C:\Users\jxluo\train\pytrain\AppData\Local\Temp\XMind ZEN Crashes" --v=1]
+[12580:1604:0216/100351.094:VERBOSE1:crash_service.cc(148)] window handle is 0000000000050674
+[12580:1604:0216/100351.094:VERBOSE1:crash_service.cc(276)] pipe name is \\.\pipe\XMind ZEN Crash Service
+dumps at C:\Users\jxluo\train\pytrain\AppData\Local\Temp\XMind ZEN Crashes
+[12580:1604:0216/100351.094:VERBOSE1:crash_service.cc(280)] checkpoint is C:\Users\jxluo\train\pytrain\AppData\Local\Temp\XMind ZEN Crashes\crash_checkpoint.txt
+server is https://www.xmind.net/_api/vana-error-report
+maximum 128 reports/day
+reporter is electron-crash-service
+[12580:1604:0216/100351.095:ERROR:crash_service.cc(287)] could not start dumper
+[16332:4048:0216/100351.857:VERBOSE1:crash_service.cc(310)] client start. pid = 13416
+[16332:4048:0216/100352.070:VERBOSE1:crash_service.cc(310)] client start. pid = 17328
